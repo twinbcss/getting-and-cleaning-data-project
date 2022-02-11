@@ -178,7 +178,7 @@ will also be cleaned to remove underscores and convert to lowercase.
 A sample tidy set would look as follows:
 
 | subject | activity | signal domain | body accelerometer average x-axis | body accelerometer average y-axis | body accelerometer average z-axis |
-| ------- | -------- | -------- | -------- | -------- |
+| ------- | -------- | -------- | -------- | -------- | -------- |
 | 2 | standing | time | 0.25717778 | -0.02328523 | -0.014653762 |
 | 4 | walking upstairs | time | 0.28602671 | -0.013163359 | -0.11908252 |
 | 9 | laying | frequency | 0.27548482 | -0.02605042 | -0.11815167 |
